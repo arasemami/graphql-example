@@ -1,0 +1,28 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arasemami/graphql-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arasemami/graphql-example/issues"
+  },
+  "homepage": "https://github.com/arasemami/graphql-example#readme",
+  "dependencies": {
+    "dataloader": "^1.4.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "node-fetch": "^2.3.0",
+    "server": "^1.0.18",
+    "xml2js": "^0.4.19"
+  }
+}
